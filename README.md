@@ -14,6 +14,14 @@
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=cherankumar08&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
+### 🖥️ **Workspace Setup**
+
+I’m all set to code and game on my awesome rig! Here are the specs:
+
+- **💻 Laptop**: ![Asus TUF Gaming](https://img.shields.io/badge/Windows-ASUS_TUF_Gaming-0078D6?style=for-the-badge&logo=windows&logoColor=white)  
+- **⚙️ Processor**: ![Intel Core i5 10th Gen](https://img.shields.io/badge/Intel-Core_i5_10th-0071C5?style=for-the-badge&logo=intel&logoColor=white)  
+- **🎮 GPU**: ![NVIDIA GTX 1650](https://img.shields.io/badge/NVIDIA-GTX1650-76B900?style=for-the-badge&logo=nvidia&logoColor=white) 
+
 ### ✍️ Random Dev Quote
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
@@ -22,4 +30,4 @@
 
 [![](https://visitcount.itsvg.in/api?id=cherankumar08&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
