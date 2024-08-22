@@ -1,10 +1,10 @@
 # 💫 About Me:
 
-💻 Programming Skills:<br>JavaScript: ⚡<br>Java: ☕<br>C Programming: 🖥️<br>🎨 Front End:<br>HTML: 📝<br>CSS: 🎨<br>Sass: 💅<br>Bootstrap: 🅱️<br>ReactJS: ⚛️<br>Redux: 🔄<br>🛠️ Miscellaneous:<br>Figma: 🎨<br>Adobe XD: 🖌️<br>Adobe Illustrator: 🖼️<br>Packet Tracer: 🛰️
+☕ Coffee to Code Converter: I turn caffeine into clean, functional code.<br>🎯 Div Centering Expert: If you need a div perfectly centered, look no further.<br>🕵️ Debugging Detective: I spend my nights solving code mysteries one bug at a time.<br>📐 Pixel Perfectionist: Obsessed with pixel-perfect designs and smooth user experiences.<br>🚀 Trend Explorer: Always on the hunt for the latest tech trends to stay ahead of the curve.<br>🥳 Fun Fact: I may not have all the answers, but I can definitely help you fix your CSS nightmares!<br>
 
 ## 🌐 Socials:
 
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/cheran kumar) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/crazy_boy_cheran) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/CHERAN J)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/cheran.kumar.714) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/crazy_boy_cheran) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/cheran-j-886395220)
 
 # 💻 Tech Stack:
 
@@ -12,11 +12,11 @@
 
 # 📊 GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=cherankumar08&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=cherankumar08&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 ### ✍️ Random Dev Quote
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
 ---
 
