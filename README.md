@@ -18,9 +18,9 @@
 
 I’m all set to code and game on my awesome rig! Here are the specs:
 
-- **💻 Laptop**: ![Asus TUF Gaming](https://img.shields.io/badge/Windows-ASUS_TUF_Gaming-0078D6?style=for-the-badge&logo=windows&logoColor=white)  
-- **⚙️ Processor**: ![Intel Core i5 10th Gen](https://img.shields.io/badge/Intel-Core_i5_10th-0071C5?style=for-the-badge&logo=intel&logoColor=white)  
-- **🎮 GPU**: ![NVIDIA GTX 1650](https://img.shields.io/badge/NVIDIA-GTX1650-76B900?style=for-the-badge&logo=nvidia&logoColor=white) 
+- ![Asus TUF Gaming](https://img.shields.io/badge/Windows-ASUS_TUF_Gaming-0078D6?style=for-the-badge&logo=windows&logoColor=white)  
+- ![Intel Core i5 10th Gen](https://img.shields.io/badge/Intel-Core_i5_10th-0071C5?style=for-the-badge&logo=intel&logoColor=white)  
+- ![NVIDIA GTX 1650](https://img.shields.io/badge/NVIDIA-GTX1650-76B900?style=for-the-badge&logo=nvidia&logoColor=white) 
 
 ### ✍️ Random Dev Quote
 
